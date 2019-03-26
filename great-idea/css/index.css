@@ -212,14 +212,10 @@ button:hover{
     margin-left:250px;
     margin-right: 10px;
     border-top: 1px solid black;
-    padding:20px 0px 20px 0px;
-}
-
-
-.content-first div{
-
-    display:inline-block;
-    width:48%;
+	padding:20px 0px 20px 0px;
+	display:flex;
+	flex-direction:wrap;
+    width:900px;
 }
 
 .middle-img{
@@ -232,13 +228,12 @@ button:hover{
     margin-left:250px;
     margin-right: 10px;
     padding: 25px 0px 25px 0px;
-    border-bottom:1px solid black;
+	border-bottom:1px solid black;
+	display:flex;
+	flex-direction:wrap;
+    width:900px;
 }
 
-.content_bottom div{
-    display:inline-block;
-    width:30%;
-}
 
 .contact{
     padding:25px 0px 0px 0px;
