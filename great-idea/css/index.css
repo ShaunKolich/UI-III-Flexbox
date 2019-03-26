@@ -321,8 +321,9 @@ footer{
 }
 
 .bottom_content .facts{
-	width :400px;
+	width :480px;
 	border:2px solid blue;
+	margin-right:100px;
 }
 .list{
 
