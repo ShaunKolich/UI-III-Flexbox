@@ -242,7 +242,8 @@ button:hover{
 }
 
 footer{
-    text-align: center;
+	padding-top: 100px;
+	text-align: center;
 }
 
 /*Services CSS starts here*/
@@ -283,8 +284,8 @@ footer{
 .first_content{
 	/* border:2px solid blue; */
 	width:1000px;
-	padding-bottom:40px;
-    border-bottom:2px solid black;
+	padding-bottom:30px;
+    border-bottom:1px solid black;
 
 
 }
@@ -292,6 +293,7 @@ footer{
 .content_middle_container{
 	/* border:2px solid red; */
 	margin-left:0px;
+	margin-top:40px;
 	width: 1500px;
 	display:flex;
 	flex-wrap: wrap;
@@ -366,4 +368,8 @@ li{
 	font-family: 'Titillium Web', sans-serif;
     letter-spacing: 1px;
     margin-bottom: 15px;
+}
+
+.services_bigger{
+	font-size:18pt;
 }
