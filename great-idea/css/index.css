@@ -300,11 +300,13 @@ footer{
 	flex-wrap: wrap;
 	justify-content: center;
 	align-content: center;
+
 	/* align-content:space-around; */
 
 }
 
 .content_middle_container div{
+
 	border: 1px solid black;
 	width: 480px;
 	height: 300px;
@@ -312,7 +314,7 @@ footer{
 	margin-top:10px;
 	margin-bottom:20px;
 	margin-right:40px;
-	background-color:rgba(184, 195, 206, 0.233);
+	background-color:rgba(159, 163, 167, 0.233);
 
 }
 .content_middle_container button{
