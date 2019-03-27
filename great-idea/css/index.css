@@ -245,6 +245,9 @@ footer{
     text-align: center;
 }
 
+/*Services CSS starts here*/
+
+
 .img{
 	margin-top:60px;
 	width:1480px;
@@ -308,24 +311,45 @@ footer{
 
 }
 .content_middle_container button{
-	margin:80px 0 0 10px;
+	margin:60px 0 0px 10px;
 
 }
 
 .bottom_content{
 	width:1480px;
-	border:2px solid red;
+	/* border:2px solid red; */
 	display: flex;
 	justify-content: center;
+
 
 }
 
 .bottom_content .facts{
 	width :480px;
-	border:2px solid blue;
+	/* border:2px solid blue; */
 	margin-right:100px;
+	margin-top:20px;
+
 }
-.list{
+.bottom_border{
+	width:1002px;
+	border-top:2px solid black;
+	margin-top:20px;
+	margin-left: 238px;
+}
 
+.services-info-img{
+	margin-top:20px;
+}
 
+p{
+
+	font-family: 'Titillium Web', sans-serif;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+li{
+	font-family: 'Titillium Web', sans-serif;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
 }
