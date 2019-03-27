@@ -293,8 +293,8 @@ footer{
 
 .content_middle_container{
 	/* border:2px solid red; */
-	margin-left:30px;
-	margin-top:40px;
+	margin-left:35px;
+	margin-top:30px;
 	width: 1450px;
 	display:flex;
 	flex-wrap: wrap;
@@ -306,10 +306,10 @@ footer{
 
 .content_middle_container div{
 	border: 1px solid black;
-	width: 475px;
+	width: 480px;
 	height: 300px;
 	padding:30px;
-	margin-top:30px;
+	margin-top:10px;
 	margin-bottom:20px;
 	margin-right:40px;
 	background-color:rgba(184, 195, 206, 0.233);
