@@ -139,6 +139,7 @@ nav{
     top:0px;
     z-index:1;
 	left:240px;
+	width:1000px;
 
 }
 
@@ -166,7 +167,7 @@ nav a.services{
 
 nav .logo{
     margin-top:20px;
-    margin-left:150px;
+    margin-left:20px;
 
 
 }
@@ -292,9 +293,9 @@ footer{
 
 .content_middle_container{
 	/* border:2px solid red; */
-	margin-left:0px;
+	margin-left:30px;
 	margin-top:40px;
-	width: 1500px;
+	width: 1450px;
 	display:flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -305,11 +306,12 @@ footer{
 
 .content_middle_container div{
 	border: 1px solid black;
-	width: 489px;
+	width: 475px;
 	height: 300px;
 	padding:30px;
+	margin-top:30px;
 	margin-bottom:20px;
-	margin-right:20px;
+	margin-right:40px;
 	background-color:rgba(184, 195, 206, 0.233);
 
 }
